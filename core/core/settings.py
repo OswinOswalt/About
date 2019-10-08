@@ -119,5 +119,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATICFILES_DIRS = ('C:/mod/TeachMeSkills/OswinOswald/oswinos/core/Oswin/static',
+STATICFILES_DIRS = ('C:/mod/TeachMeSkills/OswinOswald/oswinos/core/Oswin/static/',
 )
