@@ -121,10 +121,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-<<<<<<< HEAD
+
 # STATICFILES_DIRS = ('C:/mod/TeachMeSkills/OswinOswald/oswinos/core/Oswin/static',
 # )
 STATIC_ROOT = 'static'
-=======
-STATICFILES_DIRS = ('C:/mod/TeachMeSkills/OswinOswald/oswinos/core/Oswin/static',
-)
